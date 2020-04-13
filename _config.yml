@@ -1,4 +1,4 @@
 name: HouseN2Home
 markdown: kramdown
 
-permalink: :year/:month/:day/:title
+permalink: /news/:year/:month/:day/:title
